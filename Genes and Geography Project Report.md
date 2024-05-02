@@ -22,15 +22,13 @@ Each line of a the file contains an
 
 **Sklearn**: This package is used to carry out the PCA. 
 
-**Pandas**: For making figures. 
+**Pandas**: Use to make the PCA results easy for plotting.
+
+**altair**: This package is used to make the figures. It works similarly to R's ggplot. To use this package you need to have fewer than 5000 data points. 
 
 
 
+### Results
+![](Finalfigure.png)
 
-#### Other note 
-with Statment python code
-used in exception handling to make the code cleaner and readable.
-* you don't need to close script the with statment takes care of that 
-* Ensure that you never leave any resources open
-* I need to find out the lenght of the stupid vcf file 
-* 
+
