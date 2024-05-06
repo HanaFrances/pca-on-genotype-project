@@ -1,6 +1,6 @@
 # PCA on Genotype Project 
 
-This project was modeled after the github of MariaNattestad which was inspired by the Nature paper Genes Mirror Georgraphy within Europe by Novembre et. Al. In this paper they used Principal Component Analysis (PCA) to produce a two-dimentional visual summary of SNP variation that mirrored a geographoc map of Europe.
+I recreated a computational biology analysis by Maria Nattestad [link to analysis on youtube here](https://www.youtube.com/watch?v=-PCKK_nwFdA&feature=youtu.be). This vidoe was inspired by the Nature paper Genes Mirror Georgraphy within Europe by Novembre et. Al. In this paper they used Principal Component Analysis (PCA) to produce a two-dimentional visual summary of SNP variation that mirrored a geographoc map of Europe.
 
 
 ### Files in this project
