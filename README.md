@@ -5,11 +5,7 @@ I recreated a computational biology analysis by Maria Nattestad which she detail
 
 ### Files in this project
 
-1. Notes.md: This is a markdown file that summarizes the project results.
-2. vfc_to_matrix: This is a script that extract the SNP infromation from the vfc file, runs PCA and retunrs a csv
-3. martic.csv: This is the csv result from extracting the SNP infromation. Rows are Sample genomes and columns are snp information
-4. Colab file: File of the code used to create the figures
-
-
-   
-# Test
+1. Genes and Geography Project Report.md: This is a markdown file that summarizes the project methods and results.
+2. vcf_to_matrix: This is a script that extract the SNP infromation from the vcf file, runs PCA and returns a csv
+3. marticx.csv: This is the csv result from extracting the SNP infromation. Rows are Sample genomes and columns are snp information
+4. PCA_Genes_and_geography.ipynd: This is a Jupyter Notebooknof the code used to create the final figure.

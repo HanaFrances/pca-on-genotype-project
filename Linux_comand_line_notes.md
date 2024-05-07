@@ -10,4 +10,3 @@ gunzip -k ALL.chr22.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vc
 grep -v "^#" ALL.chr22.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf|wc -l
 1103547
 
-test
